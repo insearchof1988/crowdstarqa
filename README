@@ -1,10 +1,10 @@
-=Glu QA Recruitment Test
+Glu QA Recruitment Test
 
 You are going to implement a basic calculator that can parse sums with addition and subtraction.
 
 You will run src/run.php to execute your code. There are some prefilled calculations. You can add more for your testing.
 
-You will implement you code in lib/calculator.php. The evaluate function will receive the calculation. You need to parse
+You will implement your code in lib/calculator.php. The evaluate function will receive the calculation. You need to parse
 out the operators and operands, and perform the function.
 
 Commit your code to a private GitHub repository and share with us.
